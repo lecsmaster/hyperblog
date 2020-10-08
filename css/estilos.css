@@ -1,6 +1,28 @@
 body
 {
     color:blue;
+    font-family: "Arial";
     text-align: center;
-    font-family: "Calibri";
 }
+#cabecera
+{
+    background: #33A;
+    color: #ddd;
+    margin: 0 ;
+    padding: 0.5em;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 30px;
+}
+
